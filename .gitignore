@@ -1,0 +1,37 @@
+# Keep sensitive / private material out of a public repo.
+# HTB retired-box write-ups are fine to publish; the below is not.
+
+# Private notes and real engagement material
+private/
+_private/
+*.private.md
+notes-private/
+
+# Credentials, keys, unredacted flags
+*flags.txt
+*.flag
+creds*
+*.key
+*.pem
+id_rsa*
+*.kdbx
+
+# VPN configs
+*.ovpn
+
+# Tooling output that may contain sensitive dumps
+loot/
+*.nmap.raw
+*.xml
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Hugo build output (if you use the site option)
+public/
+resources/_gen/
+.hugo_build.lock
