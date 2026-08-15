@@ -13,6 +13,7 @@ detection view.
 | Writeup | Linux | Easy | CVE-2019-9053 (CMSMS SQLi), password reuse, PATH hijack | [→](writeup/README.md) |
 | Blue | Windows | Easy | MS17-010 / EternalBlue, unauthenticated RCE as SYSTEM | [→](blue/README.md) |
 | Knife | Linux | Easy | PHP 8.1.0-dev backdoor RCE, sudo knife exec privesc | [→](knife/README.md) |
+| Keeper | Linux | Easy | RT default creds, KeePass CVE-2023-32784, root PuTTY key | [→](keeper/README.md) |
 
 ## Structure
 
