@@ -11,6 +11,7 @@ detection view.
 | Box | OS | Difficulty | Key techniques | Write-up |
 |-----|----|-----------|----------------|----------|
 | Writeup | Linux | Easy | CVE-2019-9053 (CMSMS SQLi), password reuse, PATH hijack | [→](writeup/README.md) |
+| Blue | Windows | Easy | MS17-010 / EternalBlue, unauthenticated RCE as SYSTEM | [→](blue/README.md) |
 
 ## Structure
 
