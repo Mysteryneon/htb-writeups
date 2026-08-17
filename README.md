@@ -15,8 +15,7 @@ detection view.
 | Knife | Linux | Easy | PHP 8.1.0-dev backdoor RCE, sudo knife exec privesc | [→](knife/README.md) |
 | Keeper | Linux | Easy | RT default creds, KeePass CVE-2023-32784, root PuTTY key | [→](keeper/README.md) |
 | Wifinetic | Linux | Easy | Anon FTP config leak, PSK reuse, reaver cap_net_raw WPS attack | [→](wifinetic/README.md) |
-| 6 | **Bashed** | Linux | Easy | phpbash web shell left on server | writable root cron script | [→](bashed/README.md) |
-
+| Bashed | Linux | Easy | phpbash web shell (dev-left), sudo to scriptmanager, writable root cron | [→](bashed/README.md) |
 ## Structure
 
 ```
