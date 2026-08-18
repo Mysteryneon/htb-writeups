@@ -16,6 +16,7 @@ detection view.
 | Keeper | Linux | Easy | RT default creds, KeePass CVE-2023-32784, root PuTTY key | [→](keeper/README.md) |
 | Wifinetic | Linux | Easy | Anon FTP config leak, PSK reuse, reaver cap_net_raw WPS attack | [→](wifinetic/README.md) |
 | Bashed | Linux | Easy | phpbash web shell (dev-left), sudo to scriptmanager, writable root cron | [→](bashed/README.md) |
+| Broker | Linux | Easy | ActiveMQ CVE-2023-46604 RCE, sudo nginx WebDAV PUT for root | [→](broker/README.md) |
 ## Structure
 
 ```
