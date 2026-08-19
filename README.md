@@ -17,6 +17,7 @@ detection view.
 | Wifinetic | Linux | Easy | Anon FTP config leak, PSK reuse, reaver cap_net_raw WPS attack | [→](wifinetic/README.md) |
 | Bashed | Linux | Easy | phpbash web shell (dev-left), sudo to scriptmanager, writable root cron | [→](bashed/README.md) |
 | Broker | Linux | Easy | ActiveMQ CVE-2023-46604 RCE, sudo nginx WebDAV PUT for root | [→](broker/README.md) |
+| Nexus | Linux | Easy | Gitea git history cred leak, Krayin CVE-2026-38526 RCE, git tree path traversal for root | [→](nexus/README.md) |
 ## Structure
 
 ```
