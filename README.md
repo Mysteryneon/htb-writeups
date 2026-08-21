@@ -18,6 +18,7 @@ detection view.
 | Bashed | Linux | Easy | phpbash web shell (dev-left), sudo to scriptmanager, writable root cron | [→](bashed/README.md) |
 | Broker | Linux | Easy | ActiveMQ CVE-2023-46604 RCE, sudo nginx WebDAV PUT for root | [→](broker/README.md) |
 | Nexus | Linux | Easy | Gitea git history cred leak, Krayin CVE-2026-38526 RCE, git tree path traversal for root | [→](nexus/README.md) |
+| Orion | Linux | Easy | Craft CMS CVE-2025-32432 pre-auth RCE, bcrypt crack, inetutils-telnetd USER env var injection | [→](orion/README.md) |
 ## Structure
 
 ```
